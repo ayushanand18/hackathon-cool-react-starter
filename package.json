@@ -105,7 +105,7 @@
     "@babel/preset-typescript": "^7.21.0",
     "@loadable/babel-plugin": "^5.15.3",
     "@loadable/webpack-plugin": "^5.15.0",
-    "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
+    "@pmmmwh/react-refresh-webpack-plugin": "^0.5.10",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^12.1.5",
     "@types/compression": "^1.7.1",
