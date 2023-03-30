@@ -1672,12 +1672,12 @@
     "@types/node" "*"
     source-map "^0.6.0"
 
-"@types/compression-webpack-plugin@^6.0.6":
-  version "6.0.6"
-  resolved "https://registry.yarnpkg.com/@types/compression-webpack-plugin/-/compression-webpack-plugin-6.0.6.tgz#0af843e445b5b6531432a8f521cc2c34c4a82276"
-  integrity sha512-UuSUiWmgg4zfzTaGwyo4XCY4MBfgPuvvwAHujQZyu1beGDiJKXU3YMg0Pl6zcLMYV6tDqZJWyYG1QkT5yt28EA==
+"@types/compression-webpack-plugin@^9.1.1":
+  version "9.1.1"
+  resolved "https://registry.yarnpkg.com/@types/compression-webpack-plugin/-/compression-webpack-plugin-9.1.1.tgz#c73bf509c13e51fe05e0b84722ed88503cfa3bcc"
+  integrity sha512-cCZFFPFgZ42nWv+uHNgUenQl4gjo+oIvdPwLkGnsJBD6IpaN8dKxanLksHtc5fvlo74a5/sOuX6H320r/GROUw==
   dependencies:
-    "@types/webpack" "^4"
+    compression-webpack-plugin "*"
 
 "@types/compression@^1.7.2":
   version "1.7.2"
@@ -3516,7 +3516,7 @@ compressible@~2.0.16:
   dependencies:
     mime-db ">= 1.43.0 < 2"
 
-compression-webpack-plugin@^10.0.0:
+compression-webpack-plugin@*, compression-webpack-plugin@^10.0.0:
   version "10.0.0"
   resolved "https://registry.yarnpkg.com/compression-webpack-plugin/-/compression-webpack-plugin-10.0.0.tgz#3496af1b0dc792e13efc474498838dbff915c823"
   integrity sha512-wLXLIBwpul/ALcm7Aj+69X0pYT3BYt6DdPn3qrgBIh9YejV9Bju9ShhlAsjujLyWMo6SAweFIWaUoFmXZNuNrg==
