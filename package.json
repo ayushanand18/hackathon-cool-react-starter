@@ -92,7 +92,7 @@
     "react-redux": "^7.2.9",
     "react-router": "^5.3.4",
     "react-router-config": "^5.1.1",
-    "react-router-dom": "^6.10.0",
+    "react-router-dom": "^6.11.0",
     "redux-thunk": "^2.3.0",
     "serialize-javascript": "^6.0.0",
     "serve-favicon": "^2.5.0"
