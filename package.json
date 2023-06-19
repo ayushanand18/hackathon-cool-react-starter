@@ -152,7 +152,7 @@
     "fork-ts-checker-webpack-plugin": "^8.0.0",
     "husky": "^8.0.3",
     "identity-obj-proxy": "^3.0.0",
-    "image-minimizer-webpack-plugin": "^3.8.2",
+    "image-minimizer-webpack-plugin": "^3.8.3",
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegtran": "^7.0.0",
     "imagemin-optipng": "^8.0.0",
