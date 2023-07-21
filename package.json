@@ -70,7 +70,7 @@
   "dependencies": {
     "@babel/runtime": "^7.22.6",
     "@loadable/component": "^5.15.3",
-    "@loadable/server": "^5.16.0",
+    "@loadable/server": "^5.16.1",
     "@reduxjs/toolkit": "^1.9.5",
     "autoprefixer": "^10.2.6",
     "axios": "^1.4.0",
