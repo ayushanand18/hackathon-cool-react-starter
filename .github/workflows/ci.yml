@@ -3,13 +3,11 @@ name: CI
 on:
   push:
     branches:
-      - master
       - docker
     tags-ignore:
       - "**"
   pull_request:
     branches:
-      - master
       - docker
 
 jobs:
