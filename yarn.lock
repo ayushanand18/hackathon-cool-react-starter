@@ -2169,10 +2169,10 @@
     "@types/tapable" "^1"
     "@types/webpack" "^4"
 
-"@types/webpack-node-externals@^3.0.0":
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/@types/webpack-node-externals/-/webpack-node-externals-3.0.0.tgz#4b85b93cde99a16779c4b1faebaa23c3ef46ec0b"
-  integrity sha512-Z3ELJiH0aZjxkoymT2nrGSmCF/CYjiqC0bpv4/DWy9h7e6gP4B2qmKZFHJFermeF0SYURbSw0puddQl9dMMV0w==
+"@types/webpack-node-externals@^3.0.2":
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/@types/webpack-node-externals/-/webpack-node-externals-3.0.2.tgz#446e12e867c532c74b9378180a507b58f99a0711"
+  integrity sha512-eJv3PhUj2ntixIBMuNdhhEA5wQJyFn6ing61wABO23Bd2XvtWO8Cn5cpR4+Ey4riT0SXq1dKOGHjQySPhkOqeg==
   dependencies:
     "@types/node" "*"
     webpack "^5"
