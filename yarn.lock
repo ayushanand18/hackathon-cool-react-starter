@@ -1935,10 +1935,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/loadable__server@^5.12.6":
-  version "5.12.6"
-  resolved "https://registry.yarnpkg.com/@types/loadable__server/-/loadable__server-5.12.6.tgz#5a64eed56f8d0c5d1e3f636e231f30da20d9eb8d"
-  integrity sha512-LgO5aUQJYFQY5bLuAef4anCZ/SwsEo2hG/D4zfREgUGDXjezBjZCwlUmmpfIQLsR64reLTCijS0m7gsd1k9cKA==
+"@types/loadable__server@^5.12.7":
+  version "5.12.7"
+  resolved "https://registry.yarnpkg.com/@types/loadable__server/-/loadable__server-5.12.7.tgz#25d13a93bd2bc883358089ace900c672f24702ed"
+  integrity sha512-xc+Qywvnz9YAgd6lvqJ5tNs7/TlWcNavXlS2KUjiD+RovM6azFZPVtdh6oBQnR4o0mqGVd67MVqQfNo3Uk/SGw==
   dependencies:
     "@types/react" "*"
 
