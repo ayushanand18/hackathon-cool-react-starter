@@ -2151,10 +2151,10 @@
     tapable "^2.2.0"
     webpack "^5"
 
-"@types/webpack-manifest-plugin@^3.0.7":
-  version "3.0.7"
-  resolved "https://registry.yarnpkg.com/@types/webpack-manifest-plugin/-/webpack-manifest-plugin-3.0.7.tgz#8626bda72150a23040ffc853c6362f59fdb6e1cd"
-  integrity sha512-RvAo3MMpVsG1kcpTu6L3cIpYRoHdO1sSnvS3+ojtjdyk9qI9EqiJs8V5RuW0VgPWA+V/wietnFfHZNzCWFSB1g==
+"@types/webpack-manifest-plugin@^3.0.8":
+  version "3.0.8"
+  resolved "https://registry.yarnpkg.com/@types/webpack-manifest-plugin/-/webpack-manifest-plugin-3.0.8.tgz#f556da89e78c11a4a097a117e29d82f0774c04e6"
+  integrity sha512-1ztErWqtkAXZWs0DvnprxpDsgBnpf3aG66sxJaW+atv9TlzOVa0JcxiaqzthIVKD7EMLd1EHKyQTzNemm6IVZA==
   dependencies:
     "@types/tapable" "^1"
     "@types/webpack" "^4"
