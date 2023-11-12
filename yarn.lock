@@ -1913,10 +1913,10 @@
   resolved "https://registry.yarnpkg.com/@types/json5/-/json5-0.0.29.tgz#ee28707ae94e11d2b827bcbe5270bcea7f3e71ee"
   integrity sha512-dRLjCWHYg4oaA77cxO64oO+7JwCwnIzkZPdrrC71jQmQtlhM556pwKo5bUzqvZndkVbeFLIIi+9TC40JNF5hNQ==
 
-"@types/loadable__component@^5.13.6":
-  version "5.13.6"
-  resolved "https://registry.yarnpkg.com/@types/loadable__component/-/loadable__component-5.13.6.tgz#08ccaf86b3f74d96b9bf930e2e08085301321825"
-  integrity sha512-Xph+OBc6BfduajBZLoMkHYfdot5TH2TOW6dW3bZVb0zSjBrFUiMI6Ltu8L4w7FV8VJMRDodybA4u9yIzfEE7aA==
+"@types/loadable__component@^5.13.7":
+  version "5.13.7"
+  resolved "https://registry.yarnpkg.com/@types/loadable__component/-/loadable__component-5.13.7.tgz#2ffee9d9f7fdd231662b0aa5e48a69b01e5efdff"
+  integrity sha512-/FTIqPHwA5FbtjdsxJl8NGByOKtH1dkH2A1BGNViGUPxCEsuckqC+XC7yPVuJWa3AV5webfopDWZ6df6cN0ZHA==
   dependencies:
     "@types/react" "*"
 
