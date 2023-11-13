@@ -1927,10 +1927,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/loadable__webpack-plugin@^5.7.4":
-  version "5.7.4"
-  resolved "https://registry.yarnpkg.com/@types/loadable__webpack-plugin/-/loadable__webpack-plugin-5.7.4.tgz#b2eb17ca38d0464f5881d382eab6d80d079f9a4c"
-  integrity sha512-f2z8CqojpZBNOOG9gQqXoDm64mnrIAU3IuEYAJZ8vRXKjD7LCfj/cEmZmwhdmO2fF6cb4GmogbAU3uAaSjXMYg==
+"@types/loadable__webpack-plugin@^5.7.6":
+  version "5.7.6"
+  resolved "https://registry.yarnpkg.com/@types/loadable__webpack-plugin/-/loadable__webpack-plugin-5.7.6.tgz#87647a016db724bd4154bd7d3e06db357068441f"
+  integrity sha512-ATemiKdlC24N8Vm3E8S8J0udaMCfP6jMfriN8T8/RtdkrT9N7qnZ41xqpi9+B/4UxzIpu3VddN21qDWCsks3HQ==
   dependencies:
     "@types/webpack" "^4"
 
