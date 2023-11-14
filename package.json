@@ -116,7 +116,7 @@
     "@types/html-minifier": "^4.0.3",
     "@types/jest": "^26.0.24",
     "@types/loadable__component": "^5.13.7",
-    "@types/loadable__server": "^5.12.8",
+    "@types/loadable__server": "^5.12.9",
     "@types/loadable__webpack-plugin": "^5.7.6",
     "@types/mini-css-extract-plugin": "^2.5.1",
     "@types/morgan": "^1.9.9",
