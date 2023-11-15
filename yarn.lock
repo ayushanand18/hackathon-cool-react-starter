@@ -2076,10 +2076,10 @@
   resolved "https://registry.yarnpkg.com/@types/serialize-javascript/-/serialize-javascript-5.0.4.tgz#7a7c32248e207a0d29afed88e5ee3e921999c73d"
   integrity sha512-Z2R7UKFuNWCP8eoa2o9e5rkD3hmWxx/1L0CYz0k2BZzGh0PhEVMp9kfGiqEml/0IglwNERXZ2hwNzIrSz/KHTA==
 
-"@types/serve-favicon@^2.5.6":
-  version "2.5.6"
-  resolved "https://registry.yarnpkg.com/@types/serve-favicon/-/serve-favicon-2.5.6.tgz#141cae3780993375e5ea2ec6dac74b039e2f18fc"
-  integrity sha512-Qm/Fct+DtjepE85kOAvPtI/OkB8gPZkBuVhKSv3Xpmy3J7zboVdUspGZOZJVVDa/U7ypaCt2cF3Xm5A9gqUvmg==
+"@types/serve-favicon@^2.5.7":
+  version "2.5.7"
+  resolved "https://registry.yarnpkg.com/@types/serve-favicon/-/serve-favicon-2.5.7.tgz#a556fe9016984341a43af5b8345e274f3887f5ac"
+  integrity sha512-z9TNUQXdQ+W/OJMP1e3KOYUZ99qJS4+ZfFOIrPGImcayqKoyifbJSEFkVq1MCKBbqjMZpjPj3B5ilrQAR2+TOw==
   dependencies:
     "@types/express" "*"
 
