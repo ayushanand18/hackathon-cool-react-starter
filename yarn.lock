@@ -1845,10 +1845,10 @@
   dependencies:
     "@types/express" "*"
 
-"@types/html-minifier@^4.0.3":
-  version "4.0.3"
-  resolved "https://registry.yarnpkg.com/@types/html-minifier/-/html-minifier-4.0.3.tgz#614ad1112ea2fa41a1af1eb02ea3e43f3ddfff9f"
-  integrity sha512-e55KfPv+cXjd2AXwkuVfMw/hcJipNoS+JML+z3ijqzMHgc6F2iviWSEUx5tXQ6Yu5UtYtLH35ae2ftFsRJTmLA==
+"@types/html-minifier@^4.0.5":
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/@types/html-minifier/-/html-minifier-4.0.5.tgz#d6f64ffcf884f6c53ceb2f6ddbd8188f9badb6e9"
+  integrity sha512-LfE7f7MFd+YUfZnlBz8W43P4NgSObWiqyKapANsWCj63Aqeqli8/9gVsGP4CwC8jPpTTYlTopKCk9rJSuht/ew==
   dependencies:
     "@types/clean-css" "*"
     "@types/relateurl" "*"
