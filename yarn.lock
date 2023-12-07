@@ -1892,10 +1892,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/loadable__server@^5.12.9":
-  version "5.12.9"
-  resolved "https://registry.yarnpkg.com/@types/loadable__server/-/loadable__server-5.12.9.tgz#5d80e13534cbe34d8c515dfcfd6de9f4573fd88f"
-  integrity sha512-s7GrAQn+EcUPSET3oR91jlIz2HpSn0OLtsCLRYsP3IAknoh6sg9r9iLYUQ4JfTYM1sqTkLX4VAfpgCfHrSGeHQ==
+"@types/loadable__server@^5.12.10":
+  version "5.12.10"
+  resolved "https://registry.yarnpkg.com/@types/loadable__server/-/loadable__server-5.12.10.tgz#5e9816973ff0bd67439e100d1fb3726f3bec7b42"
+  integrity sha512-DCO9qtgMQNRMo+mZcLOmWBUaByYdYoJKyqIgNUS5fNAod6uBqfsw0IxUCxPq9juhJgfPqFDYZrPtB0piubd+PQ==
   dependencies:
     "@types/react" "*"
 
