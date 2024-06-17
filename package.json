@@ -156,7 +156,7 @@
     "imagemin-gifsicle": "^7.0.0",
     "imagemin-jpegtran": "^7.0.0",
     "imagemin-optipng": "^8.0.0",
-    "imagemin-svgo": "^11.0.0",
+    "imagemin-svgo": "^11.0.1",
     "jest": "^27.0.6",
     "lint-staged": "^15.2.5",
     "mini-css-extract-plugin": "^2.9.0",
