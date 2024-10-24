@@ -1735,10 +1735,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/css-minimizer-webpack-plugin@^3.2.1":
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/@types/css-minimizer-webpack-plugin/-/css-minimizer-webpack-plugin-3.2.1.tgz#bacbef5d8217074b599bd8a0771ec60ebd46dd16"
-  integrity sha512-MIlnEVQDTX0Y1/ZBY0RyD+F6+ZHlG42qCeSoCVhxI5N1atm+RnmDLQWUCWrdNqebFozUTRLDZJ04v5aYzGG5CA==
+"@types/css-minimizer-webpack-plugin@^3.2.4":
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/@types/css-minimizer-webpack-plugin/-/css-minimizer-webpack-plugin-3.2.4.tgz#e684a53c80b63a459b8edc99e7d040ae59783323"
+  integrity sha512-E0RlG4ZrcW1cXF618r3cSiwCyP2Sp5EhyxOlo8U7ci5aJdX1aF3IHInKiRqQc8TCKQJ+Bsfncu50x8v9BRQv8g==
   dependencies:
     css-minimizer-webpack-plugin "*"
 
