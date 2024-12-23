@@ -74,7 +74,7 @@
     "@reduxjs/toolkit": "^2.5.0",
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.9",
-    "chalk": "^5.4.0",
+    "chalk": "^5.4.1",
     "compression": "^1.7.5",
     "connected-react-router": "^6.9.3",
     "core-js": "^3.39.0",
