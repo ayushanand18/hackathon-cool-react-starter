@@ -9761,6 +9761,11 @@ postcss-sorting@^5.0.1:
     lodash "^4.17.14"
     postcss "^7.0.17"
 
+postcss-sorting@^8.0.2:
+  version "8.0.2"
+  resolved "https://registry.yarnpkg.com/postcss-sorting/-/postcss-sorting-8.0.2.tgz#6393385ece272baf74bee9820fb1b58098e4eeca"
+  integrity sha512-M9dkSrmU00t/jK7rF6BZSZauA5MAaBW4i5EnJXspMwt4iqTh/L9j6fgMnbElEOfyRyfLfVbIHj/R52zHzAPe1Q==
+
 postcss-svgo@^7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/postcss-svgo/-/postcss-svgo-7.0.0.tgz#2f11b45c6fa42da155fd7c16c44e69bf086c5992"
@@ -9795,7 +9800,7 @@ postcss@^7.0.14, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.21, postcss@^7.0.
     source-map "^0.6.1"
     supports-color "^6.1.0"
 
-postcss@^8.4.33, postcss@^8.4.38, postcss@^8.4.49:
+postcss@^8.4.32, postcss@^8.4.33, postcss@^8.4.38, postcss@^8.4.49:
   version "8.4.49"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.4.49.tgz#4ea479048ab059ab3ae61d082190fabfd994fe19"
   integrity sha512-OCVPnIObs4N29kxTjzLfUryOkvZEq+pf8jTF0lg8E7uETuWHA+v7j3c/xJmiqpX450191LlmZfUKkXxkTry7nA==
@@ -11447,7 +11452,7 @@ stylelint-config-standard@^22.0.0:
   dependencies:
     stylelint-config-recommended "^5.0.0"
 
-stylelint-order@^4.0.0, stylelint-order@^4.1.0:
+stylelint-order@^4.0.0:
   version "4.1.0"
   resolved "https://registry.yarnpkg.com/stylelint-order/-/stylelint-order-4.1.0.tgz#692d05b7d0c235ac66fcf5ea1d9e5f08a76747f6"
   integrity sha512-sVTikaDvMqg2aJjh4r48jsdfmqLT+nqB1MOsaBnvM3OwLx4S+WXcsxsgk5w18h/OZoxZCxuyXMh61iBHcj9Qiw==
@@ -11455,6 +11460,14 @@ stylelint-order@^4.0.0, stylelint-order@^4.1.0:
     lodash "^4.17.15"
     postcss "^7.0.31"
     postcss-sorting "^5.0.1"
+
+stylelint-order@^6.0.4:
+  version "6.0.4"
+  resolved "https://registry.yarnpkg.com/stylelint-order/-/stylelint-order-6.0.4.tgz#3e80d876c61a98d2640de181433686f24284748b"
+  integrity sha512-0UuKo4+s1hgQ/uAxlYU4h0o0HS4NiQDud0NAUNI0aa8FJdmYHA5ZZTFHiV5FpmE3071e9pZx5j0QpVJW5zOCUA==
+  dependencies:
+    postcss "^8.4.32"
+    postcss-sorting "^8.0.2"
 
 stylelint-scss@^3.18.0:
   version "3.20.1"
