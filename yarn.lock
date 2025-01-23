@@ -1883,10 +1883,10 @@
   dependencies:
     "@types/react" "*"
 
-"@types/loadable__webpack-plugin@^5.7.6":
-  version "5.7.6"
-  resolved "https://registry.yarnpkg.com/@types/loadable__webpack-plugin/-/loadable__webpack-plugin-5.7.6.tgz#87647a016db724bd4154bd7d3e06db357068441f"
-  integrity sha512-ATemiKdlC24N8Vm3E8S8J0udaMCfP6jMfriN8T8/RtdkrT9N7qnZ41xqpi9+B/4UxzIpu3VddN21qDWCsks3HQ==
+"@types/loadable__webpack-plugin@^5.15.0":
+  version "5.15.0"
+  resolved "https://registry.yarnpkg.com/@types/loadable__webpack-plugin/-/loadable__webpack-plugin-5.15.0.tgz#fb4c8f0237fdb7258e4a3aea45bdcc43afb798bd"
+  integrity sha512-f5Zar+qXoVZOqo3RTA/AT6+JBmFPB/2+5vCBJ+XfI+NHUZKpIv/F1O5QWwt9j/XibuhS/lAkGq63KjeiYyaM/w==
   dependencies:
     "@types/webpack" "^4"
 
