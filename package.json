@@ -71,7 +71,7 @@
     "@babel/runtime": "^7.26.0",
     "@loadable/component": "^5.16.4",
     "@loadable/server": "^5.16.5",
-    "@reduxjs/toolkit": "^2.5.0",
+    "@reduxjs/toolkit": "^2.5.1",
     "autoprefixer": "^10.4.20",
     "axios": "^1.7.9",
     "chalk": "^5.4.1",
