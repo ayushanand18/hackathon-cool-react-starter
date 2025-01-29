@@ -130,7 +130,7 @@
     "@types/serve-favicon": "^2.5.7",
     "@types/terser-webpack-plugin": "^5.2.0",
     "@types/webpack-bundle-analyzer": "^4.7.0",
-    "@types/webpack-manifest-plugin": "^3.0.8",
+    "@types/webpack-manifest-plugin": "^4.0.0",
     "@types/webpack-node-externals": "^3.0.4",
     "@typescript-eslint/eslint-plugin": "^4.33.0",
     "@typescript-eslint/parser": "^8.21.0",
